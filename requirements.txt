@@ -1,0 +1,20 @@
+# Personalized Learning Path Generator - Dependencies
+
+# Core ADK
+google-adk>=0.1.0
+
+# Google AI
+google-genai>=0.1.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Database support (optional, for production)
+sqlalchemy>=2.0.0
+aiosqlite>=0.19.0
+greenlet>=3.0.0
+
+# Testing
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+
